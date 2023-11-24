@@ -25,5 +25,5 @@ A continuación, debes seleccionar una de las siguientes actividades para realiz
 <br>
 3. **Otra actividad relevante**
 
-## ENLACE DE LA GRABACION DEL VIDEO
-[video download](https://drive.google.com/uc?id=1Y1pTmcFlPP30jSU6YIFJoGHZoEnGA589&export=download)
+## ENLACE DE LA GRABACION DEL VIDEO Y LOS PESOS DE YOLO
+[video download](https://drive.google.com/drive/folders/1TOycyVbBcyhdScCrbekb2FDKjAw4dKer?usp=sharing)
