@@ -11,7 +11,7 @@ def draw_counts(frame, classes, class_counts):
             (0, i * 15 + 10),
             cv2.FONT_HERSHEY_SIMPLEX,
             0.5,
-            (255, 0, 0),
+            (255, 255, 0),
             1
         )
         i += 1
@@ -40,7 +40,7 @@ def display_flow(frame, flux_register, persons_count, fp3s):
         (0, 700),
         cv2.FONT_HERSHEY_SIMPLEX,
         1,
-        (255, 0, 0),
+        (255, 255, 0),
         1
     )
 
